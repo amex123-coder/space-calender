@@ -6,4 +6,5 @@ it consists of three main web pages, which are:
 about me
 the author of this web page or website is "AMEN BIRUK ZENEBE"
 this is a school of tomorrow space science project and also my first ever website i have launched.
+recomended on pc
 published in january 1 2026
